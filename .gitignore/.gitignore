@@ -1,6 +1,22 @@
 <html>
     <head>
         <title>hello, IU!</title>
+
+        <style>
+            body{
+                background-color: lavender;
+            }
+            h1{
+                color: mediumpurple;
+            }
+            div{
+                background-color: rgb(214, 195, 238);
+                font-size: 15px;
+            }
+            .description{
+                color: darkgoldenrod;
+            }
+        </style>
     </head>
 
     <body>
@@ -8,7 +24,7 @@
             <img src= "https://i.ytimg.com/vi/veQp7YWSdlA/maxresdefault.jpg" width="600" height="400">
             <h1>라일락</h1>
             <h2>아이유(IU)</h2>
-            <p> 아티스트 : 아이유(IU)<br> 발매일 :2021</p>
+            <p class="description"> 아티스트 : 아이유(IU)<br> 발매일 :2021</p>
         </div>
         <div>
             <h3>가사</h3>
